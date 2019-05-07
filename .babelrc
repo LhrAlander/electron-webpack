@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["env", {
+      "modules": false,
+      "targets": {
+        "node": 7,
+      }
+    }]
+  ],
+  "plugins": ["transform-runtime"]
+}
